@@ -1,0 +1,17 @@
+ clang++-7 -pthread -std=c++17 -o main hw-0.0/main.cpp main.cpp
+ ./main
+Hello World!
+ 
+
+
+
+
+ clang++-7 -pthread -std=c++17 -o main hw-0.0/main.cpp main.cpp
+ ./main
+Hello World! 
+
+
+
+
+
+It means to save it like a variable
