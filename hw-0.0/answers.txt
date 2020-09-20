@@ -1,17 +1,19 @@
- clang++-7 -pthread -std=c++17 -o main hw-0.0/main.cpp main.cpp
- ./main
+1: Showes
+clang++-7 -pthread -std=c++17 -o main hw-0.0/main.cpp main.cpp
+like a command then
+./main,
+and then outputs
 Hello World!
- 
+and starts the terminal on the a new line.
 
 
 
-
- clang++-7 -pthread -std=c++17 -o main hw-0.0/main.cpp main.cpp
- ./main
-Hello World! 
+4:
+Same as 1, eexcept that it startes again on the same line.
 
 
 
 
 
-It means to save it like a variable
+5:
+int main() tells the computer to save it as a variable, and the {} tells it where the thing is defined
